@@ -1,0 +1,51 @@
+body {
+    font-family: 'Balsamiq Sans', cursive;
+}
+.header {
+	background-image: url(2.png)  ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+	padding-bottom: 105px;
+}
+#kol{
+	color:red;
+}
+#lol{
+color:purple;
+}
+h5{
+	color:purple;
+}
+h1{
+	color:black;
+}
+h4{
+	color:yellow;
+}
+h2{
+	color:black;
+}
+#footer{
+	background-image: url(фон10.jpg)  ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+	padding-bottom: 105px;
+}
+#interesting1{
+	background-image: url(фон.png)  ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+	padding-bottom: 105px;
+}
+#interesting2{
+	background-image: url(фон3.jpg)  ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+	padding-bottom: 105px;}
+
+	#interesting3{
+	background-image: url(фон9.jpg)  ;
+	background-repeat: no-repeat;
+	background-size: 100% ; 
+	padding-bottom: 105px;
+.footer{}
